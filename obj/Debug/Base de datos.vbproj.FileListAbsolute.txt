@@ -1,0 +1,42 @@
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.exe.config
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.exe
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.pdb
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.xml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.vbproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Iniciar_Sesion.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Resources.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.vbproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.vbproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.exe
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.xml
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.pdb
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Bienvenida.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Principal.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Alumnos.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Materias.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Recuperar_Contraseña.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Producto_Farmaceuticos.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Docentes.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Libros.resources
+C:\Users\jesus\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Album_Musica.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.exe.config
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.exe
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.pdb
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\bin\Debug\Base de datos.xml
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.vbproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Album_Musica.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Alumnos.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Bienvenida.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Docentes.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Libros.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Iniciar_Sesion.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Materias.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Resources.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Principal.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Producto_Farmaceuticos.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base_de_datos.Recuperar_Contraseña.resources
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.vbproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.vbproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.exe
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.xml
+C:\Users\user\OneDrive\Documentos\Universidad carpeta compartida\3 SEMESTRE\BASE DE DATOS 35\Base de datos\obj\Debug\Base de datos.pdb
